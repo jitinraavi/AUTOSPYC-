@@ -8,4 +8,4 @@ team members:- 1. Jitin Raavi           2410030331
 
  about AUTOSPYC
 
- Autospyc is a platform where any person can 
+ Autospyc is a platform where any person can buy and sell automobile parts and maintain the service history of their automobiles.It also helps the customer to check and buy parts from the verified dealer and buy geninue spare parts.
